@@ -1,5 +1,12 @@
 # Face Recognition & Classification Pipeline
 
+for the teacher:
+The model i used is saved in the classifiers folder under catboost.
+You have to run this on the cropped faces in the processed_data folder under cropped_faces_test, 
+but the file was too big so i had to make it into a zipfile.
+
+---
+
 This repository provides a comprehensive pipeline for:
 1. Cleaning and preprocessing label data
 2. Detecting and cropping faces from images/videos using **YuNet (OpenCV)**
