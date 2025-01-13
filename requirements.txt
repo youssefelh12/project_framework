@@ -1,0 +1,25 @@
+# Core
+numpy
+pandas
+joblib
+scikit-learn
+scikit-image
+Pillow
+pillow-heif
+opencv-python
+onnx
+
+# FaceNet + TensorFlow or Keras
+keras-facenet
+tensorflow>=2.0
+
+# Classifiers
+xgboost
+catboost
+lightgbm
+
+# Optional (if used in older code)
+# keras
+# or
+# tensorflow-gpu  # If you want GPU acceleration
+
